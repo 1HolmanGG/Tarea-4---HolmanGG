@@ -1,13 +1,7 @@
-# Sockets Simple App
+# Aplicación de Seguimiento de Pedidos en Tiempo Real
 
-## Install dependencies
+## Instalación y Ejecución
 
-```
+```sh
 npm install
-```
-
-## Start App
-
-```
 npm run dev
-```
